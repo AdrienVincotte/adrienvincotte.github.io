@@ -18,5 +18,5 @@ A list of my publications is available [here](publications).
 
 ## Contact
 
-Email: adrien.vincotte@univ-rennes.fr
-[DBLP](https://dblp.uni-trier.de/pid/352/4080.html)]
+Email: adrien.vincotte@univ-rennes.fr  
+My DBLP profile: [DBLP](https://dblp.uni-trier.de/pid/352/4080.html)
