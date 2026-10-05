@@ -4,9 +4,7 @@ layout: default
 
 # Adrien Vinçotte
 
-Researcher in Cryptography
-
-I work in coding theory and cryptography, with a particular interest in rank-metric codes and their applications to cryptography. 
+Researcher in post-quantum cryptography, with a particular interest in rank-metric codes.
 
 ## Research
 
