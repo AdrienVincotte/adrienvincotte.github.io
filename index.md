@@ -4,11 +4,11 @@ layout: default
 
 # Adrien Vinçotte
 
-Researcher in post-quantum cryptography, with a particular interest in rank-metric codes.
+I am currently a postdoctoral researcher at IRMAR, Université de Rennes, France. I am working in post-quantum cryptography, with a particular interest in rank-metric codes.
 
 ## Research
 
-My research interests include the design and cryptanalysis of cryptographic protocols relying on error-correcting codes, especially in the rank metric. I am also interested in the algebraic and geometric structures underlying these objects.
+My research includes the design and cryptanalysis of cryptographic protocols relying on error-correcting codes, especially in the rank metric. I am also interested in the algebraic and geometric structures underlying these objects.
 
 ## Contact
 
@@ -23,10 +23,10 @@ Alain Couvreur, Thomas Debris-Alazard, Philippe Gaborit, Adrien Vinçotte, *Asia
 [**RYDE: A Digital Signature Scheme based on Rank-Syndrome-Decoding Problem with MPCitH Paradigm.**](https://link.springer.com/article/10.1007/s10623-024-01544-1)
 Loïc Bidoux, Jesús-Javier Chi-Domínguez, Thibauld Feneuil, Philippe Gaborit, Antoine Joux, Matthieu Rivain, Adrien Vinçotte, *Designs, Codes and Cryptography*, 2025. [Version on arXiv](https://arxiv.org/abs/2307.08726)
 
-[**MinRank Gabidulin Encryption Scheme on Matrix Codes.**](https://link.springer.com/book/10.1007/978-981-96-0894-2)
+[**MinRank Gabidulin Encryption Scheme on Matrix Codes.**](https://link.springer.com/chapter/10.1007/978-981-96-0894-2_3)
 Nicolas Aragon, Alain Couvreur, Victor Dyseryn, Philippe Gaborit, Adrien Vinçotte, *Asiacrypt2024*. [Version on arXiv](https://arxiv.org/abs/2405.16539)
 
-[**The Blockwise Rank Syndrome Learning problem and its applications to cryptography.**](https://link.springer.com/book/10.1007/978-3-031-62743-9)
+[**The Blockwise Rank Syndrome Learning problem and its applications to cryptography.**](https://link.springer.com/chapter/10.1007/978-3-031-62743-9_3)
 Nicolas Aragon, Pierre Briaud, Victor Dyseryn, Philippe Gaborit, Adrien Vinçotte, *PQC 2024*. [Version on eprint](https://eprint.iacr.org/2023/1875)
 
 ## Preprints
